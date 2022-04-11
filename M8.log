@@ -1,6 +1,0 @@
-10:13:06  <App> DocumentObject.cpp(780): Changes to partial loaded document will not be saved: ТаблицаПараметров#Spreadsheet002.cells
-10:13:08  <App> DocumentObject.cpp(780): Changes to partial loaded document will not be saved: роликЗащитыY#Sketch.Constraints
-10:13:10  554.941015 <asm3.sys> system.py(244): auto relax constraint (РоликY#Attachment004) РоликY#Constraint005 between (РоликY#M8x16-Screw) РоликY#Screw and (РоликY#M8-Washer) РоликY#Washer, 2
-10:13:10  0.000573 <asm3.sys> system.py(244): auto relax constraint (РоликY#Attachment005) РоликY#Constraint006 between (РоликY#ВинтПрав) РоликY#Link010 and (РоликY#ШайбаПрав) РоликY#Link003, 2
-10:13:10  0.001122 <asm3.sys> system.py(244): auto relax constraint (РоликY#Attachment008) РоликY#Constraint009 between (РоликY#DIN6334_1) РоликY#Link008 and (РоликY#M8x108.80000000000001-ThreadedRod) РоликY#ThreadedRod, 2
-10:13:10  0.000538 <asm3.sys> sys_slvs.py(71): dof remaining: 0
